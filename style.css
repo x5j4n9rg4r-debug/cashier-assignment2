@@ -1,16 +1,16 @@
 body {
   background-color: #e8f0fe;
-}
   font-size: x-large;
+  font-family: Arial, sans-serif;
 }
 
 caption {
-  font-size:xx-large;
+  font-size: xx-large;
 }
 
 input[type="text"] {
-  font-size:x-large;
-  text-align:right;
+  font-size: x-large;
+  text-align: right;
   color: red;
   background-color: #fffaf0;
   border: 0px;
@@ -22,7 +22,7 @@ input[type="text"] {
 }
 
 table {
-  background-color: #e8f0fe;
+  background-color: #ffffff; /* white table so background shows */
   border: thin solid #000000;
+  margin: 40px auto;
 }
-
