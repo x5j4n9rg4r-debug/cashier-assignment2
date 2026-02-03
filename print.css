@@ -1,0 +1,24 @@
+body {
+  font-family: courier; 
+  background-color: #FFFFFF;
+  font-size: small;
+}
+
+input[type="text"] {
+  text-align:right;
+  background-color: #FFFFFF;
+  border: 0px;
+  padding: 5px;
+}
+
+.center {
+  text-align: center;
+}
+
+input[type="button"] {
+  display:none;
+}
+
+th {
+  border-top: 1px dashed;
+}

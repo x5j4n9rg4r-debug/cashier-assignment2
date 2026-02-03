@@ -1,0 +1,26 @@
+body {
+  font-size: x-large;
+}
+
+caption {
+  font-size:xx-large;
+}
+
+input[type="text"] {
+  font-size:x-large;
+  text-align:right;
+  color: red;
+  background-color: #FFFFFF;
+  border: 0px;
+  padding: 5px;
+}
+
+.center {
+  text-align: center;
+}
+
+table {
+  background-color: #00FF00;
+  border: thin solid #000000;
+}
+
